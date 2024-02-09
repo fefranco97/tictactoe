@@ -19,9 +19,9 @@ Right mouse click at index.html -> Open With -> Your Browser
 
 ### TODO
 
-| Method                             | Description                                                                                           |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `Implement new game difficulties`  | When the game starts, let the player choose the size of the board, depending on the chosen difficulty |
-| `Time taken to finish`             | When the user beat the game, show how long it takes                                                   |
-| `Save on localStorage the ranking` | Save at the localStorage the best time on all the difficulties                                        |
-| `Create a ranking component`       | Create a screen to see the current ranking                                                            |
+| Method |
+| ------ |
+
+| `Better UI`  
+| `Draw a line when the player win`
+| `Change the alert for a modal dialog`
